@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: b70cc8ef897e74f4a87512242f32ed11
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: de7914974710f574094b7302348b69c8
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: c2782f3f2ebdefb44be2b7f67f4863f7
+  - enabled: 1
+    path: Assets/Scenes/Testik.unity
+    guid: 75c5a6f48e646e94d8d6416740972822
+  - enabled: 1
+    path: Assets/Scenes/Testik2.unity
+    guid: 706f7b09f7cd1ab44bb81a277b667149
+  - enabled: 1
+    path: Assets/Scenes/Town.unity
+    guid: db209623f8d2799438e63f0f4257b9bb
+  - enabled: 1
+    path: Assets/Scenes/Hozzyville.unity
+    guid: a417ad327b355f046a0db40fabe5f3f3
+  - enabled: 1
+    path: Assets/Scenes/BattleArea.unity
+    guid: 3fc25e26bce7aa74c89534f0a0e6f001
+  m_configObjects: {}
